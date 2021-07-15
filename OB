@@ -1,0 +1,25 @@
+[33mtag v1.0[m
+Tagger: Lisseth Hernandez <lisseth.hernandez@ibm.com>
+Date:   Thu Jul 15 08:20:17 2021 -0500
+
+Release 1.0
+
+[33mcommit 3060145a4017d0106bda7a3b103841fdc764081a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: Lisseth Hernandez <lisseth.hernandez@ibm.com>
+Date:   Thu Jul 15 07:40:44 2021 -0500
+
+    Agregando cambios a la rama updates
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex a70e004..95752ae 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,4 +1,5 @@[m
+ Hola[m
+ Buenas Buenas[m
+ Mai Pipol[m
+[31m-EL nuevo Cambio[m
+\ No newline at end of file[m
+[32m+[m[32mEL nuevo Cambio[m
+[32m+[m[32mOtra compadre[m
+\ No newline at end of file[m
